@@ -10,3 +10,5 @@ A collection of great talks I've listened to
 [Concurrency is not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) - Rob Pike
 
 [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) - Rob Pike
+
+[How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) - Joshua Bloch 
