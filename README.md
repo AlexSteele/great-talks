@@ -14,3 +14,5 @@ A collection of great talks I've listened to
 [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) - Joshua Bloch 
 
 [Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY) - Zach Tellman
+
+[Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) - Alan Kay
