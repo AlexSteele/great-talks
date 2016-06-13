@@ -16,3 +16,5 @@ A collection of great talks I've listened to
 [Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY) - Zach Tellman
 
 [Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) - Alan Kay
+
+[On Software Quality](https://www.youtube.com/watch?v=k56wra39lwA) - Jonathan Blow
