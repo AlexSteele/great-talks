@@ -22,3 +22,9 @@ A collection of great talks I've listened to
 [The JavaScript Programming Language](https://www.youtube.com/watch?v=v2ifWcnQs6M) - Douglas Crockford
 
 [An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs) - Douglas Crockford
+
+[Aalto Talk with Linus Torvalds](https://www.youtube.com/watch?v=MShbP3OpASA) - Linus Torvalds
+
+[Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Linus Torvalds
+
+[Twenty Years after Doom](https://www.youtube.com/watch?v=EaN4wUii0T0) - John Carmack
