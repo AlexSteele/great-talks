@@ -18,3 +18,7 @@ A collection of great talks I've listened to
 [Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs) - Alan Kay
 
 [On Software Quality](https://www.youtube.com/watch?v=k56wra39lwA) - Jonathan Blow
+
+[The JavaScript Programming Language](https://www.youtube.com/watch?v=v2ifWcnQs6M) - Douglas Crockford
+
+[An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs) - Douglas Crockford
