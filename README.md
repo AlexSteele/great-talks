@@ -1,5 +1,5 @@
 # great-talks
-A collection of great talks I've listened to
+A collection I've listened to.
 
 [The Value of Values](https://www.youtube.com/watch?v=-6BsiVyC1kM) - Rich Hickey
 
