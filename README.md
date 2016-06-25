@@ -25,6 +25,8 @@ A collection I've listened to.
 
 [Aalto Talk with Linus Torvalds](https://www.youtube.com/watch?v=MShbP3OpASA) - Linus Torvalds
 
+[Deep Learning and Understandability versus Software Engineering and Verification](https://www.youtube.com/watch?v=X769cyzBNVw) - Peter Norvig
+
 [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Linus Torvalds
 
 [Twenty Years after Doom](https://www.youtube.com/watch?v=EaN4wUii0T0) - John Carmack
