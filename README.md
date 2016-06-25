@@ -30,3 +30,5 @@ A collection I've listened to.
 [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8) - Linus Torvalds
 
 [Twenty Years after Doom](https://www.youtube.com/watch?v=EaN4wUii0T0) - John Carmack
+
+[AI & The Future Of Civilization](https://www.youtube.com/watch?v=giuVfY-I-p4) - Stephen Wolfram 
