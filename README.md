@@ -32,3 +32,11 @@ A collection I've listened to.
 [Twenty Years after Doom](https://www.youtube.com/watch?v=EaN4wUii0T0) - John Carmack
 
 [AI & The Future Of Civilization](https://www.youtube.com/watch?v=giuVfY-I-p4) - Stephen Wolfram 
+
+[Jeff Dean on TensorFlow in Seoul](https://www.youtube.com/watch?v=QSaZGT4-6EY) - Jeff Dean
+
+[Original Node.js Presentation](https://www.youtube.com/watch?v=ztspvPYybIY) - Ryan Dahl
+
+[Introduction to Javascript and Browser DOM](https://www.youtube.com/watch?v=ljNi8nS5TtQ) - Misko Hevery
+
+[Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) - Douglas Crockford
