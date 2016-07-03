@@ -40,3 +40,5 @@ A collection I've listened to.
 [Introduction to Javascript and Browser DOM](https://www.youtube.com/watch?v=ljNi8nS5TtQ) - Misko Hevery
 
 [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) - Douglas Crockford
+
+[Structuring Teams and Scaling At Google](https://www.youtube.com/watch?v=hcRxFRgNpns) - Eric Schmidt
