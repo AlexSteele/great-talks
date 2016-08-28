@@ -42,3 +42,5 @@ A collection I've listened to.
 [Javascript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) - Douglas Crockford
 
 [Structuring Teams and Scaling At Google](https://www.youtube.com/watch?v=hcRxFRgNpns) - Eric Schmidt
+
+[Data-Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc) - Mike Acton
